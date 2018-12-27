@@ -3,6 +3,6 @@
 
 int main()
 {
-    k01main();
+    k02main();
     return 0;
 }
