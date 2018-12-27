@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/data_structure.dir/main.c.o CMakeFiles/data_structure.dir/01.exchange_table/kmain.c.o CMakeFiles/data_structure.dir/include.c.o  -o data_structure.exe -Wl,--out-implib,libdata_structure.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
