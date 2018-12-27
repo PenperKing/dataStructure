@@ -1,3 +1,0 @@
-/cygdrive/g/mycode/data_structure/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/cygdrive/g/mycode/data_structure/cmake-build-debug/CMakeFiles/data_structure.dir
-/cygdrive/g/mycode/data_structure/cmake-build-debug/CMakeFiles/edit_cache.dir

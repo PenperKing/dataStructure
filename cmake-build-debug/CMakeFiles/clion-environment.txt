@@ -1,4 +1,0 @@
-ToolSet: 2.11.1@C:\cygwin64
-Options: msvc.arch=x86, msvc.platform=uwp
-
-Options:
